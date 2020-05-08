@@ -4,7 +4,9 @@ This program runs in terminal for users to calculate their GPA.
 
 Currently, semester GPA cannot be calculated for Tufts students until official grades are submitted via SIS.
 
-With this tool, students can "what-if" their grades during the covid-19 pandemic
+With this tool, students can "what-if" their grades during the covid-19 pandemic.
+
+Students can use this tool to decide if they should use the "Exceptional Pass-Fail" policy for the semester.
 
 **To run in command line**:
 - download zipped file and extract
