@@ -8,3 +8,6 @@ With this tool, students can what-if their grades during the covid-19 pandemic
 To run in command line:
 - execute Python
 - run the command python main.py
+
+To run in REPL:
+https://repl.it/talk/share/Tufts-GPA-Calculator-non-persistent/36461?fbclid=IwAR38o54PmfteLnNOBLLNvfw6p6351L_jJcsK5bU1o-6tho48NMSb9BlMisQ
