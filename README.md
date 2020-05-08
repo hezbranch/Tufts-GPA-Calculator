@@ -6,7 +6,7 @@ Currently, semester GPA cannot be calculated for Tufts students until official g
 
 With this tool, students can "what-if" their grades during the covid-19 pandemic.
 
-Students can use this tool to decide if they should use the "Exceptional Pass-Fail" policy for the semester.
+Students can use this tool to decide if they should use the "Exceptional Pass" (EP) policy for the semester.
 
 **To run in command line**:
 - download zipped file and extract
@@ -16,3 +16,5 @@ Students can use this tool to decide if they should use the "Exceptional Pass-Fa
 
 **To run in REPL**:
 - https://bit.ly/2zhuOrn
+
+Source for Tufts Bulletin: http://students.tufts.edu/academic-advice-and-support/academic-advising/academic-policy-exceptions-undergraduate-students-spring-2020
