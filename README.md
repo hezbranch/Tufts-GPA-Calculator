@@ -7,6 +7,8 @@ Currently, semester GPA cannot be calculated for Tufts students until official g
 With this tool, students can "what-if" their grades during the covid-19 pandemic
 
 **To run in command line**:
+- download zipped file and extract
+- open command line to extracted folder path
 - execute Python
 - run the command 'python main.py'
 
