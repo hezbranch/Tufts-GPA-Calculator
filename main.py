@@ -8,6 +8,7 @@
 # May 08, 2020
 
 import sys
+import time
 
 print("Welcome to the Tufts GPA calculator! \n")
 print("WARNING: P/F does not factor into GPA and as such \nwill not be counted during this program.")
@@ -55,6 +56,7 @@ def class_registration(first_time):
     print("\n---------------------------------------\n")
     print("--------------LOADING------------------\n")
     print("---------------------------------------\n")
+    time.sleep(3)
     add_class(answer)
     # Store that we have finished our first go around
     first_time = False
@@ -91,6 +93,7 @@ for course, grade in courses.items():
 print("\n---------------------------------------\n")
 print("--------------LOADING------------------\n")
 print("---------------------------------------\n")
+time.sleep(3)
 
 # Display GPA rounded to 2 decimals as per Tufts Bulletin regulation
 print("\nCalculated GPA: ", round(gpa, 2))
